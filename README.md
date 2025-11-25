@@ -25,3 +25,6 @@ Getting Started With Podman
 
 ``` sudo podman image ls ```
 
+### 5.) Building Image With Podman
+
+``` sudo podman image build . -t nginx:podman  ```
